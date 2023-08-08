@@ -19,8 +19,3 @@ function copyCode()
     document.execCommand('copy');
     alert('Panoya kopyalandı');
 }
-
-function deneme()
-{
-    window.alert("Selam Çalışıyorum");
-} 
